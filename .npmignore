@@ -20,3 +20,4 @@ GALLERY.md
 rollup.config.js
 PULL_REQUEST_TEMPLATE.md
 .yalc/
+yalc.lock
